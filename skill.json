@@ -1,0 +1,19 @@
+{
+  "name": "genpark-first-order-logic-resolution-refutation-skill",
+  "version": "1.0.0",
+  "description": "First-Order Logic Robinson syntactic unifier with occurs-check and resolution refutation theorem prover",
+  "category": "Service",
+  "tags": [
+    "mcp",
+    "first-order-logic",
+    "unification",
+    "robinson-unifier",
+    "resolution-refutation",
+    "theorem-proving",
+    "formal-logic",
+    "python-standard-library",
+    "agent-skills",
+    "predicate-calculus",
+    "automated-deduction"
+  ]
+}
