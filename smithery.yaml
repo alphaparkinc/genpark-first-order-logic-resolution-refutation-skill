@@ -1,0 +1,5 @@
+name: genpark-first-order-logic-resolution-refutation-skill
+description: First-Order Logic Robinson syntactic unifier with occurs-check and resolution refutation theorem prover
+version: 1.0.0
+runtime: python
+entrypoint: mcp_server.py
