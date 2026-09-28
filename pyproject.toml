@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-first-order-logic-resolution-refutation-skill"
+version = "1.0.0"
+description = "First-Order Logic Robinson syntactic unifier with occurs-check and resolution refutation theorem prover"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
